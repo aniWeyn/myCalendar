@@ -1,0 +1,44 @@
+.card-content{
+    padding: 10px;
+}
+
+.demo-card-square.mdl-card {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+}
+
+.demo-card-square > .card-InteractionDesign {
+  background:
+     bottom right 15% no-repeat #9D3B34;
+}
+
+.demo-card-square > .card-MethodologyAndCommunication {
+  background:
+     bottom right 15% no-repeat #598A2E;
+}
+
+.demo-card-square > .card-other {
+  background:
+     bottom right 15% no-repeat #D343C1;
+}
+
+.demo-card-square > .card-meeting {
+  background:
+     bottom right 15% no-repeat #41ABD3;
+}
+
+.demo-card-square > .card-nls {
+  color: #fff;
+  background:
+     bottom right 15% no-repeat rgb(45,125,345);
+}
+
+.mdl-card	{
+min-height: 10px; 
+}
